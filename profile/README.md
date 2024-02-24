@@ -1,4 +1,4 @@
-<h1 align="center">@jesgran.js Discord bots source codes</h1>
+<h1 align="center">@jesgran.js Discord bot source code</h1>
 <h3 align="center">Rubate pure quello che volete basta che mi creditate</h3>
 
 <h3 align="left">Linguaggi usati:</h3> </a> </p>
